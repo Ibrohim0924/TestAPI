@@ -1,0 +1,20 @@
+{
+  "name": "interview-test",
+  "version": "1.0.0",
+  "description": "Test API bilan ishlash uchun dastur",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "interview"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^16.6.1"
+  }
+}
