@@ -15,8 +15,8 @@ Dastur quyidagi vazifalarni bajaradi:
 
 1. Loyihani yuklab oling:
 ```bash
-git clone [sizning-github-repo-manzilingiz]
-cd interview-test
+git clone https://github.com/Ibrohim0924/TestAPI.git
+cd TestAPI
 ```
 
 2. Kerakli paketlarni o'rnating:
