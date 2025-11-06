@@ -1,4 +1,6 @@
-# Test API bilan ishlash loyihasi
+# Test API bilan ishlash loyihasi / Проект для работы с тестовым API
+
+[English](README_EN.md) | [Русский](README_RU.md) | O'zbekcha
 
 Bu loyiha test API bilan ishlash va HTTP so'rovlarni amalga oshirish imkoniyatlarini ko'rsatish uchun yaratilgan.
 

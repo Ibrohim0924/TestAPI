@@ -1,6 +1,17 @@
+/**
+ * Test API bilan ishlash uchun dastur
+ * 
+ * Vazifalar:
+ * 1. POST so'rovi yuborish va birinchi qism kodni olish
+ * 2. Webhook orqali ikkinchi qism kodni olish
+ * 3. Kodlarni birlashtirish
+ * 4. GET so'rovi orqali yakuniy natijani olish
+ */
+
 const axios = require('axios');
 const readline = require('readline');
 
+// API manzili
 const API_URL = 'https://test.icorp.uz/interview.php';
 
 const rl = readline.createInterface({
